@@ -11,4 +11,4 @@ stable/easy-use/cross-platform basic graphics context for golang.
 'driver' module use go-glfw to adapter desktop, glfw is Good enough to handle this. For mobile system like Android/iOS,
 we forked some code from `go/mobile`.
 
-**Don't do experiments, make it works and stable!**
+**Don't do experiments, make it works and keep stable!**
